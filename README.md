@@ -1,1 +1,0 @@
-# Multi-Granularity-Locally-Optimal-Prototype-Based-Classifier
